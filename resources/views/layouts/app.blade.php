@@ -17,7 +17,7 @@
         <div id="page">
             <!-- Sidebar -->
             <aside>
-                <h1>Goals</h1>
+                <h1>Categories</h1>
             </aside>
             <!-- Primary Content -->
             <main>
