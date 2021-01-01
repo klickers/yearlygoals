@@ -16,6 +16,8 @@
 
         </nav>
 
+        @yield('absolute')
+
         <main>
             @yield('content')
         </main>

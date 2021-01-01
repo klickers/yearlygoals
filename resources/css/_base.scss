@@ -1,0 +1,8 @@
+main {
+    @apply w-full;
+}
+@screen md {
+    main {
+        @apply w-11/12;
+    }
+}
