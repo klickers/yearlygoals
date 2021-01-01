@@ -3,3 +3,6 @@
 * {
     font-family: "Inter", sans-serif;
 }
+h1 {
+    @apply font-bold text-3xl mb-3;
+}

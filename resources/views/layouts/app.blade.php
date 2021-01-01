@@ -12,15 +12,18 @@
         @yield('head')
     </head>
     <body>
-        <nav>
-
-        </nav>
-
         @yield('absolute')
 
-        <main>
-            @yield('content')
-        </main>
+        <div id="page">
+            <!-- Sidebar -->
+            <aside>
+                <h1>Goals</h1>
+            </aside>
+            <!-- Primary Content -->
+            <main>
+                @yield('content')
+            </main>
+        </div>
 
         <footer>
         </footer>
